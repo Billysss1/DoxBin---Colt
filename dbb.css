@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h3 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+h1 {
+    color: white;
+}
+div {
+	position: absolute;
+	top: 20px;
+	right: 80px;
+}
